@@ -1,4 +1,4 @@
-export const  loginLocators= {
+export const loginLocators= {
 
     username: "#username",
     password: "#password",
